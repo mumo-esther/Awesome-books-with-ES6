@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome books</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <h1>All Awesome Books</h1>
+      <a href="#books">Books List</a>
+      <a href="#new-book">Add a New Book</a>
+      <a href="#contact">Contact Info</a>
+    </nav>
+    <section id="books">
+    <div id="book-list">
+      <ul id="books"></ul>
+    </div>
+  </section>
+  <section id="new-book">
+    <h2 class="add-book">Add a new book</h2>
+    <div class="book-form" id="book-form">
+      <ul class="list" id="list">
+        <li>
+          <input type="text" id="title" placeholder="Title" required />
+        </li>
+        <li>
+          <input type="text" id="author" placeholder="Author" required />
+        </li>
+      </ul>
+      <button type="submit" id="add-button">Add</button>
+    </div>
+ </section>
+    <section class="contact" id="contact">
+      <h2>Contact Information</h2>
+      <p>Do you have any questions or you just want to say "Hello"? <br>
+      You can reach out to us!</p>
+      <p>Phone: 555-555-5555</p>
+      <p>Email: info@awesomebooks.com</p>
+      <p>Adress: nrb, 000010, Nairobi</p>
+    </section>
+    <footer>
+      <h2>Copyright ...</h2>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
