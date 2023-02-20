@@ -20,11 +20,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Awesome books: plain JavaScript with objects
+## 📖 Awesome books: with ES6
  <a name="about-project"></a>
 
 
-**Awesome books** is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, I learnt how to manage data using JavaScript. Thanks to that my website will be more interactive. I also useD a medium-fidelity wireframe to build the UI.
+**Awesome books** is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, I learnt how to manage data using JavaScript. Thanks to that my website will be more interactive. I also useD a medium-fidelity wireframe to build the UI.It has helped me understand how to use ES6 modules to write modular JavaScript, how to use proper ES6 syntax.
+Understand improvements that ES6 brings to JavaScript.
+Use npm as software packages system.
 
 
 ## 🛠 Built With <a name="built-with"></a>
