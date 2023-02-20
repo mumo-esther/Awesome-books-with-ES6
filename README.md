@@ -36,7 +36,7 @@ Use npm as software packages system.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Live Demo
-https://mumo-esther.github.io/Awesome-Books/
+https://mumo-esther.github.io/ES6-and-webpack/
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
