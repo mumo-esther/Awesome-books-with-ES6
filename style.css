@@ -28,7 +28,16 @@ nav a:hover {
   color: #ccc;
 }
 
+.date {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  float: right;
+  margin: 20px;
+}
+
 section {
+  margin-top: 70px;
   display: none;
   padding: 20px;
 }
@@ -78,7 +87,7 @@ h1 {
 #books {
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin-top: 70px;
   border: 1px solid rgb(48, 46, 47);
   border-radius: 5px;
 }
@@ -113,6 +122,7 @@ h1 {
   font-size: 30px;
   max-width: 500px;
   padding: 1em;
+  text-align: center;
 }
 
 .list {
