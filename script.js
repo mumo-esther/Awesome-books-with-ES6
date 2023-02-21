@@ -1,6 +1,6 @@
 import linksHandler from './modules/ui.js';
 import BookCollection from './modules/book.js';
-import time from './modules/time.js';
+import { DateTime } from './modules/luxon.js';
 
 const bookCollection = new BookCollection();
 document
@@ -9,4 +9,8 @@ document
 bookCollection.displayBooks();
 
 linksHandler();
-time();
+
+const now = DateTime.now();
+const date = now.toLocaleString(DateTime.DATETIME_FULL);
+
+document.getElementById('date').textContent = date;

@@ -36,11 +36,11 @@ Use npm as software packages system.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Live Demo
-https://mumo-esther.github.io/Awesome-Books/
+https://mumo-esther.github.io/ES6-and-webpack/
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
-Git clone https://github.com/mumo-esther/Awesome-Books.git
+Git clone https://github.com/mumo-esther/ES6-and-webpack.git
 ### Prerequisites
 
 In order to run this project you need:
@@ -50,8 +50,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
   cd my-folder
-  git clonehttps://github.com/mumo-esther/Awesome-Books.git
-
+  git clone https://github.com/mumo-esther/ES6-and-webpack.git
 ### Run tests
 
 To run tests, run the following command:
@@ -101,6 +100,6 @@ I would like to thank all my coding partners who helped me in understanding lint
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/mumo-esther/Desktop-version-Portfolio/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/mumo-esther/ES6-and-webpack/blob/master/LICENCE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
